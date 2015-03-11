@@ -5,7 +5,7 @@ excerpt: "Simple models of intensity measurements in second-generation sequencin
 assessment metrics while capturing uncertainty in base-calling and
 mapping. Applications to variant calling in pooled resequencing
 experiments."
-rank: 4
+rank: 3
 ---
 
 - H. Corrada Bravo, R.A. Irizarry. "Model-based quality assessment and
@@ -23,4 +23,9 @@ rank: 4
       T. (2011). "Effective detection of rare variants in pooled DNA
       samples using Cross-pool tailcurve analysis". _Genome
       Biology_, 12(9), R93. [Genome Biology](http://genomebiology.com/content/12/9/R93)
+
+- C. Ye, C. Hsiao, H. Corrada Bravo. BlindCall: ultra-fast base-calling of
+second-generation sequencing by blind deconvolution (2014).
+Bioinformatics, 30 (9),
+1214-9. [Bioinformatics](http://bioinformatics.oxfordjournals.org/content/30/9/1214.full)
 
