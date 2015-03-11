@@ -1,0 +1,7 @@
+{% assign sorted_projects = site.projects | sort: 'rank' %}
+More projects:
+{% for other_project in sorted_projects %}
+{% if include.this_project != other_project.title %}
+<small><a href={{ other_project.url }}>{{ other_project.title }}</a> |</small>
+{% endif %}
+{% endfor %}

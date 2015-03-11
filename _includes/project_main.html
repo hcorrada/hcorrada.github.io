@@ -1,0 +1,22 @@
+<div id="content">
+<div class="left">
+  <h4>{{ page.title }}</h4>
+  
+  {{ page.excerpt }}<br>
+  
+  &nbsp;
+  &nbsp;
+  
+  {{ page.content }}
+
+  <hr>
+  {% include project_foot.html this_project=page.title %}
+
+</div>
+
+<div class="right">
+  {% include contact_box.html %}
+</div>
+
+<div style="clear: both;"> </div>
+

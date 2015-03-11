@@ -1,0 +1,23 @@
+<div id="content">
+<div class="left">
+  {% assign sorted_projects = site.projects | sort: 'rank' %}
+  {% for project in sorted_projects %}
+  <h4>{{ project.title }}</h4>
+  
+  {{ project.excerpt }}
+  <i><a href={{ project.url }}>Read more..</a></i><br>
+
+  &nbsp;
+  
+  &nbsp;
+  <hr>
+  
+  {% endfor %}
+</div>
+
+<div class="right">
+  {% include contact_box.html %}
+</div>
+
+<div style="clear: both;"> </div>
+
