@@ -7,7 +7,7 @@ title: Group
 - Wikum Dinalankara (Ph.D., Computer Science)
 - [Florin Chelaru (Ph.D., Computer Science](http://cs.umd.edu/~florinc)
 - Kwame Okrah (Ph.D., Applied Statistics)
-- Joyce Hsiao (Ph. D., Applied Statistics)
+- [Joyce Hsiao (Ph. D., Applied Statistics)](http://cbcb.umd.edu/~chsiao/)
 - [Joseph Paulson (Ph.D., Scientific Computing, co-advised with
 Mihai Pop)](http://cbcb.umd.edu/~jpaulson/)
 - Justin Wagner (Ph.D., Computer Science)
