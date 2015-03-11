@@ -33,8 +33,6 @@ More detail on my research projects may be found <a href="projects.html">here</a
 - Interactive genomic data visualization
 - Anti-profiles: classifying cancer using heterogeneity
 - Computational epigenomics
-- Second-generation sequencing data quality assessment and analysis
 - Metagenomics
-- Extending Smoothing-Spline ANOVA models with pedigree data
-- Tree-Structured Covariance Matrices for Gene Expression Analysis
+- Second-generation sequencing data quality assessment and analysis
 
