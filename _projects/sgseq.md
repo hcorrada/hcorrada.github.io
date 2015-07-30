@@ -7,6 +7,7 @@ mapping. Applications to variant calling in pooled resequencing
 experiments."
 rank: 3
 ---
+- Okrah, K. and Corrada Bravo, H. (2015). "Shape analysis of high-throughput transcriptomics experiment data". _Biostatistics_ doi: 10.1093/biostatistics/kxv018. [Biostatistics](http://biostatistics.oxfordjournals.org/content/early/2015/05/10/biostatistics.kxv018.abstract)
 
 - H. Corrada Bravo, R.A. Irizarry. "Model-based quality assessment and
   base-calling for second-generation sequencing data" (Novmeber
@@ -28,4 +29,3 @@ rank: 3
 second-generation sequencing by blind deconvolution (2014).
 Bioinformatics, 30 (9),
 1214-9. [Bioinformatics](http://bioinformatics.oxfordjournals.org/content/30/9/1214.full)
-
