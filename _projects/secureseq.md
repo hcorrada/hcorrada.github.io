@@ -5,4 +5,4 @@ excerpt: "Secure computation for genomic biomarker analysis"
 rank: 2
 ---
 
-- Wagner, J., Paulson, J.N., Wang, X.S., Bhattacharjee, B., Corrada Bravo, H. "Privacy preserving human microbiome analysis using secure computation" _In preparation_. [Source code](https://github.com/HCBravoLab/MicrobiomeSC)
+- Wagner, J., Paulson, J.N., Wang, X.S., Bhattacharjee, B., Corrada Bravo, H. "Privacy preserving human microbiome analysis using secure computation" _Submitted_. [Source code](https://github.com/HCBravoLab/MicrobiomeSC)

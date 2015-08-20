@@ -2,6 +2,6 @@
 More projects:
 {% for other_project in sorted_projects %}
 {% if other_project.rank < 4 and include.this_project != other_project.title %}
-<small><a href={{ other_project.url }}>{{ other_project.title }}</a> |</small>
+<small><a href={{ site.baseurl }}{{ other_project.url }}>{{ other_project.title }}</a> |</small>
 {% endif %}
 {% endfor %}
