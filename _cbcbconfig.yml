@@ -1,6 +1,0 @@
-baseurl: '/~hcorrada'
-highlighter: pygments
-github: [Repository metadata]
-collections:
-  projects:
-    output: true
