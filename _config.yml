@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            "HCBravo Lab:<br>Biomedical Data Science"
 locale:           en_US
 url:
 
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Héctor Corrada Bravo
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Computational Biologist.<br>Assistant Professor.<br>Univ. of Maryland CBCB"
+  email: hcorrada@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: hcorrada
   facebook: #username
   google:
-    plus: #username
+    plus: hcorrada
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: hcorrada
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: hcorrada
   xing: #username
   instagram: #username
   lastfm: #username
