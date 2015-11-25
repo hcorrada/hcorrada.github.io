@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            "HCBravo Lab:<br>Biomedical Data Science"
+title:            "HCBravo Lab: Biomedical Data Science"
 locale:           en_US
 url:
 
@@ -42,7 +42,7 @@ owner:
   bing-verify:
   github: hcorrada
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: 
+  linkedin:
   xing: #username
   instagram: #username
   lastfm: #username
