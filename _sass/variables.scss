@@ -17,12 +17,14 @@ $alt-font: $base-font;
 /*
    Colors
    ========================================================================== */
+$brandcolor     : #403a94;
+$brand-color    : $brandcolor;
 
 $bodycolor      : #fff;
 $body-color     : $bodycolor;
 $textcolor      : #333332;
 $text-color     : $textcolor;
-$headcolor      : #3069AE;
+$headcolor      : $brandcolor;
 $head-color     : $headcolor;
 $border-color   : $text-color;
 $basecolor 		  : #343434;
