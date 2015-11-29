@@ -7,3 +7,7 @@ image:
   credit: epiviz
   creditlink: http://epiviz.github.io
 ---
+
+**Statistical and computational methods for high-throughput genomics.**  
+_Interactive data visualization. Metagenomics. Computational epigenomics._
+
