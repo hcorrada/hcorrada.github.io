@@ -4,6 +4,9 @@ title:            "HCBravo Lab: Biomedical Data Science"
 locale:           en_US
 url:
 
+collections:
+  projects:
+    output: true
 
 # Jekyll configuration
 
