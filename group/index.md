@@ -9,3 +9,45 @@ image:
   feature:
 ---
 
+###Current Members
+  - Justin Wagner  
+ Ph.D., Computer Science
+
+ - Mahfuza Sharmin  
+ Ph.D., Computer Science, co-advised with Sridhar Hannenhalli
+
+ - Faezeh Dorri  
+ Ph.D., Computer Science
+
+ - Senthil Mutiah  
+Ph.D., Cell Biology and Molecular Genetics,
+co-advised with Mihai Pop
+
+###Past Members
+- Wikum Dinalankara  
+Ph.D., Computer Science.  
+First position: Postdoc, Johns Hopkins University
+
+- [Florin Chelaru](http://cs.umd.edu/~florinc)  
+Ph.D., Computer Science  
+First position: Postdoc, MIT/Broad
+
+- Kwame Okrah  
+Ph.D., Applied Statistics  
+First position: Biostatistician, Genentech Inc.
+
+- [Joyce Hsiao](http://cbcb.umd.edu/~chsiao/)  
+Ph. D., Applied Statistics  
+First position: Postdoc, University of Chicago
+
+- [Joseph Paulson](http://cbcb.umd.edu/~jpaulson/)  
+Ph.D., Scientific Computing, co-advised with Mihai Pop  
+First position: Postdoc, Harvard, Dana Farber Cancer Research Center
+
+- Hisham Talukder  
+   Ph.D., Applied Statistics.  
+   First position: Data Scientist at Dow Jones
+
+- Daniel Konecki  
+   B.S., Computer Science and Biology.  
+   First position: Ph.D. student at Baylor College of Medicine)
