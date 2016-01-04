@@ -6,3 +6,7 @@ _site
 codekit-config.json
 node_modules
 _asset_bundler_cache
+_cbcb_deploy
+_cbcb_config.yml
+tasks/deploy
+
