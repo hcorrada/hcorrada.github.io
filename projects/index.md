@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project-index
 title: Projects
 date: 2015-11-29T12:40:47-05:00
 modified:
@@ -8,4 +8,3 @@ tags: []
 image:
   feature: epiviz.jpg
 ---
-
