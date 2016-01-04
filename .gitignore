@@ -1,2 +1,5 @@
 _site
 _cbcb_deploy
+_cbcb_config.yml
+tasks/deploy
+
