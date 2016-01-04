@@ -31,6 +31,20 @@ kramdown:
 owner:
   name: Héctor Corrada Bravo
   avatar: hector3.png
+  position: Assistant Professor
+  affiliations:
+    -
+      name: Center for Bioinformatics and Computational Biology
+      url: "http://cbcb.umd.edu"
+    -
+      name: UMIACS
+      url: "http://umiacs.umd.edu"
+    -
+      name: Computer Science
+      url: "http://cs.umd.edu"
+  institution:
+      name: Univ. of Maryland
+      url: "http://www.umd.edu"
   bio: "Assistant Professor<br>CBCB<br>Univ. of Maryland"
   email: hcorrada@gmail.com
   disqus-shortname:
