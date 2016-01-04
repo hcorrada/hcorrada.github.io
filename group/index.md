@@ -23,6 +23,15 @@ image:
 Ph.D., Cell Biology and Molecular Genetics,
 co-advised with Mihai Pop
 
+- Nathanael D. Olson  
+Ph.D., Cell Biology and Molecular Genetics
+
+- Mihai Sirbu  
+B.S., Computer Science
+
+- Jayaram Kancherla  
+Faculty Research Assistant
+
 ###Past Members
 - Wikum Dinalankara  
 Ph.D., Computer Science.  
