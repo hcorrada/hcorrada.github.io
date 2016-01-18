@@ -11,7 +11,7 @@ image:
   feature:
 ---
 
-- [CMSC320: Introduction to Data Science](http://hcbravo.org/IntroDataSci)
+- [CMSC320: Introduction to Data Science](http://www.hcbravo.org/IntroDataSci)
 - [CMSC423: Bioinformatics](http://cbcb.umd.edu/~hcorrada/CMSC423)
 - [CMSC702: Computational systems biology and functional genomics](http://cbcb.umd.edu/~hcorrada/CFG)
 - [CMSC726: Machine Learning](http://cbcb.umd.edu/~hcorrada/PML)
