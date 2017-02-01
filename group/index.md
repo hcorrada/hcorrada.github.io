@@ -11,7 +11,7 @@ image:
   feature:
 ---
 
-###Current Members
+### Current Members
   - Justin Wagner  
  Ph.D., Computer Science
 
@@ -34,7 +34,7 @@ B.S., Computer Science
 - Jayaram Kancherla  
 Faculty Research Assistant
 
-###Past Members
+### Past Members
 - Wikum Dinalankara  
 Ph.D., Computer Science.  
 First position: Postdoc, Johns Hopkins University
