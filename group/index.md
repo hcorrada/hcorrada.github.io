@@ -32,7 +32,7 @@ Ph.D., Cell Biology and Molecular Genetics
 - Jayaram Kancherla  
 Faculty Research Assistant
 
-- Brian Gottfied
+- Brian Gottfried  
 Undergraduate Student, Computer Science
 
 ### Past Members
