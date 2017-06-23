@@ -11,7 +11,8 @@ image:
   feature:
 ---
 
-###Current Members
+### Current Members
+
   - Justin Wagner  
  Ph.D., Computer Science
 
@@ -28,13 +29,14 @@ co-advised with Mihai Pop
 - Nathanael D. Olson  
 Ph.D., Cell Biology and Molecular Genetics
 
-- Mihai Sirbu  
-B.S., Computer Science
-
 - Jayaram Kancherla  
 Faculty Research Assistant
 
-###Past Members
+- Brian Gottfied
+Undergraduate Student, Computer Science
+
+### Past Members
+
 - Wikum Dinalankara  
 Ph.D., Computer Science.  
 First position: Postdoc, Johns Hopkins University
@@ -55,10 +57,14 @@ First position: Postdoc, University of Chicago
 Ph.D., Scientific Computing, co-advised with Mihai Pop  
 First position: Postdoc, Harvard, Dana Farber Cancer Research Center
 
+- Mihai Sirbu  
+B.S., Computer Science
+
+
 - Hisham Talukder  
-   Ph.D., Applied Statistics.  
-   First position: Data Scientist at Dow Jones
+Ph.D., Applied Statistics.  
+First position: Data Scientist at Dow Jones
 
 - Daniel Konecki  
-   B.S., Computer Science and Biology.  
-   First position: Ph.D. student at Baylor College of Medicine)
+B.S., Computer Science and Biology.  
+First position: Ph.D. student at Baylor College of Medicine)
