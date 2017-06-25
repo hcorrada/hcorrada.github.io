@@ -16,6 +16,6 @@ an integrated visual analysis software for genomics". _BMC Bioinformatics_ 16(Su
 Presented at [Biovis'15](http://www.biovis.net/).
 [BMC Bioinformatics](http://www.biomedcentral.com/1471-2105/16/S11/S4)
 
-- [Help/Documentation site](http://epiviz.cbcb.umd.edu/help)
-- [Source code (github project)](http://github.com/epiviz)
-- [Epivizr Bioconductor package](http://bioconductor.org/packages/release/bioc/html/epivizr.html)
+[Project site](http://epiviz.org)  
+[Source code (github project)](http://github.com/epiviz)  
+[Epivizr Bioconductor package](http://bioconductor.org/packages/release/bioc/html/epivizr.html)  

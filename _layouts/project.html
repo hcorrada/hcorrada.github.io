@@ -41,6 +41,10 @@
       {% endif %}
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
+        {% if page.excerpt %}
+        {{ page.excerpt }}
+        {% endif %}
+
       {{ content }}
       <hr />
     </div><!-- /.article-wrap -->

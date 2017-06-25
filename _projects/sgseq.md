@@ -6,7 +6,7 @@ assessment metrics while capturing uncertainty in base-calling and
 mapping. Applications to variant calling in pooled resequencing
 experiments."
 modified: 2013-05-31
-rank: 2
+rank: 2.1
 ---
 
 - Okrah, K. and Corrada Bravo, H. (2015). "Shape analysis of high-throughput transcriptomics experiment data". _Biostatistics_ doi: 10.1093/biostatistics/kxv018. [Biostatistics](http://biostatistics.oxfordjournals.org/content/early/2015/05/10/biostatistics.kxv018.abstract)

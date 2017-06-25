@@ -3,7 +3,7 @@ layout: project
 title: Antiprofiles
 excerpt: "Classifying cancer based on heterogeneity."
 modified: 2013-05-31
-rank: 2
+rank: 2.2
 ---
 
 - Dinalankara, W., Corrada Bravo H. (2015) "Gene expression signatures based on
