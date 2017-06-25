@@ -57,14 +57,19 @@ First position: Postdoc, University of Chicago
 Ph.D., Scientific Computing, co-advised with Mihai Pop  
 First position: Postdoc, Harvard, Dana Farber Cancer Research Center
 
-- Mihai Sirbu  
-B.S., Computer Science
-
-
 - Hisham Talukder  
 Ph.D., Applied Statistics.  
 First position: Data Scientist at Dow Jones
 
+- Daniel Hwang
+B.S., Computer Science
+
+- Morgan Walter
+B.E., Bioengineering
+
+- Mihai Sirbu  
+B.S., Computer Science
+
 - Daniel Konecki  
 B.S., Computer Science and Biology.  
-First position: Ph.D. student at Baylor College of Medicine)
+First position: Ph.D. student at Baylor College of Medicine
