@@ -17,11 +17,15 @@ image:
  Ph.D., Computer Science
 
  - Mahfuza Sharmin  
- Ph.D., Computer Science, co-advised with Sridhar Hannenhalli
+ Ph.D., Computer Science, 
+ co-advised with Sridhar Hannenhalli
 
  - Faezeh Dorri  
  Ph.D., Computer Science
 
+ - Mohamed Gunady  
+ Ph.D., Computer Science
+ 
  - Senthil Mutiah  
 Ph.D., Cell Biology and Molecular Genetics,
 co-advised with Mihai Pop
