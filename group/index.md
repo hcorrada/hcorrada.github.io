@@ -26,6 +26,9 @@ image:
  - Mohamed Gunady  
  Ph.D., Computer Science
  
+ - Nick Thieme  
+ Ph.D., Computer Science
+ 
  - Senthil Mutiah  
 Ph.D., Cell Biology and Molecular Genetics,
 co-advised with Mihai Pop
