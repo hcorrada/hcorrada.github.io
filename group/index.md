@@ -13,36 +13,52 @@ image:
 
 ### Current Members
 
-  - Justin Wagner  
- Ph.D., Computer Science
-
- - Mahfuza Sharmin  
- Ph.D., Computer Science, 
- co-advised with Sridhar Hannenhalli
-
- - Faezeh Dorri  
- Ph.D., Computer Science
-
  - Mohamed Gunady  
  Ph.D., Computer Science
  
- - Nick Thieme  
- Ph.D., Computer Science
- 
- - Senthil Mutiah  
-Ph.D., Cell Biology and Molecular Genetics,
-co-advised with Mihai Pop
-
-- Nathanael D. Olson  
-Ph.D., Cell Biology and Molecular Genetics
-
 - Jayaram Kancherla  
 Faculty Research Assistant
 
-- Brian Gottfried  
-Undergraduate Student, Computer Science
+- Aya Ismail   
+Ph.D., Computer Science
+
+- Domenick Braccia   
+Ph.D., Cell Biology and Molecular Genetics
+
+- Theresa Alexander  
+Ph.D., Cell Biology and Molecular Genetics
+
+- Yancy Liao   
+Ph.D., Computer Science
+
+- Yifan Yang  
+B.S., Computer Science  
+
+- Kyle Chang  
+B.S., Computer Science
+
 
 ### Past Members
+
+- Nathanael D. Olson  
+Ph.D., Cell Biology and Molecular Genetics  
+First position: Research Scientist NIST
+
+ - Justin Wagner  
+ Ph.D., Computer Science  
+First position: Research Scientist NIST
+
+ - Senthil Mutiah  
+Ph.D., Cell Biology and Molecular Genetics,  
+First position: Postdoc, Harvard, Dana Farber Cancer Research Center
+
+ - Mahfuza Sharmin  
+ Ph.D., Computer Science, 
+ co-advised with Sridhar Hannenhalli  
+First position: Postdoc, Stanford University
+
+ - Faezeh Dorri  
+ Ph.D., Computer Science
 
 - Wikum Dinalankara  
 Ph.D., Computer Science.  
@@ -68,10 +84,16 @@ First position: Postdoc, Harvard, Dana Farber Cancer Research Center
 Ph.D., Applied Statistics.  
 First position: Data Scientist at Dow Jones
 
-- Daniel Hwang
+ - Nick Thieme  
+ M.S., Computer Science
+ 
+- Brian Gottfried  
 B.S., Computer Science
 
-- Morgan Walter
+- Daniel Hwang  
+B.S., Computer Science
+
+- Morgan Walter  
 B.E., Bioengineering
 
 - Mihai Sirbu  
@@ -79,4 +101,3 @@ B.S., Computer Science
 
 - Daniel Konecki  
 B.S., Computer Science and Biology.  
-First position: Ph.D. student at Baylor College of Medicine
