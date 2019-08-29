@@ -37,17 +37,17 @@ owner:
       name: Center for Bioinformatics and Computational Biology
       url: "http://cbcb.umd.edu"
     -
-      name: UMIACS
-      url: "http://umiacs.umd.edu"
-    -
       name: Computer Science
       url: "http://cs.umd.edu"
+    -
+      name: UMIACS
+      url: "http://umiacs.umd.edu"
   institution:
       name: Univ. of Maryland
       url: "http://www.umd.edu"
-  bio: "Assistant Professor<br>CBCB<br>Univ. of Maryland"
+  bio: "Associate Professor<br>CBCB<br>Univ. of Maryland"
   email: hcorrada@gmail.com
-  address: "8314 Paint Branch Dr. #3114F<br>College Park, MD 20742"
+  address: "3226 Brendan Iribe Center, 8125 Paint Branch Dr. College Park, MD 20742"
   cv: "http://www.hcbravo.org/docs/CorradaBravo_CV.pdf"
   disqus-shortname:
   twitter: hcorrada

@@ -1,6 +1,5 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: epiviz.jpg
@@ -9,7 +8,7 @@ image:
 ---
 
 **Statistical and computational methods for high-throughput genomics.**  
-_Interactive data visualization. Metagenomics. Computational epigenomics._
+_Interactive data analysis. Metagenomics. Cancer epigenomics. Transcriptomics._
 
 ### What we work on
 
