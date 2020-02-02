@@ -6,6 +6,10 @@ modified: 2013-05-31
 rank: 0
 ---
 
+- Cui, Z., Kancherla, J., Elmqvist, N., Corrada Bravo, H. (2019). "Proactive Visual and Statistical Analysis of Genomic Data in Epiviz". _Bioinformatics_ btz883 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz883/5646643)
+
+- Kancherla, J., Zhang, A., Gottfried, B., Corrada Bravo, H. (2018). "Epiviz web components: reusable and extensible component library to visualize genomic datasets". _F1000 Research_ 7:1096. [F1000 Research](https://f1000research.com/articles/7-1096)
+
 - Chelaru, F., Smith, L., Goldstein, N., Corrada Bravo,
 H. (2014). "Epiviz: interactive visual analytics for functional
 genomics data". _Nature Methods_ 11,

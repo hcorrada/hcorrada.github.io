@@ -7,6 +7,8 @@ modified: 2013-05-31
 rank: 2
 ---
 
+- Dorri, F., Mendelowitz, L., Corrada Bravo, H. (2015). "methylFlow: cell-specific methylation pattern reconstruction from high-throughput bisulfite-converted DNA sequencing". HitSeq 2015. [Bioinformatics](https://academic.oup.com/bioinformatics/article/32/11/1618/1743421)
+
 - Hansen, K. D., Timp, W., Corrada Bravo, H., Sabunciyan, S., Langmead, B.,
 McDonald, O. G., Wen, B., et al. (2011). "Increased methylation
 variation in epigenetic domains across cancer types." *Nature
@@ -24,6 +26,8 @@ Hansen, RA. Irizarry (2014). Minfi: a flexible and comprehensive
 Bioconductor package for the analysis of Infinium DNA Methylation
 microarrays. Bioinformatics, 30 (10),
 1363-9. [Bioinformatics](http://bioinformatics.oxfordjournals.org/content/30/10/1363.long)
+
+- [`methylFlow` Github Repo](https://github.com/hcorrada/methylFlow)
 
 - [`minfi` Bioconductor package](http://bioconductor.org/packages/release/bioc/html/minfi.html)
 
