@@ -1,10 +1,8 @@
 ---
 layout: project
 title: "Second-generation sequencing data quality assessment and analysis"
-excerpt: "Simple models of intensity measurements in second-generation sequencing data give easily interpretable quality
-assessment metrics while capturing uncertainty in base-calling and
-mapping. Applications to variant calling in pooled resequencing
-experiments."
+excerpt: "General methods for  quality
+assessment of second-generation sequencing data." 
 modified: 2013-05-31
 rank: 2.1
 ---
@@ -13,8 +11,7 @@ rank: 2.1
 
 - H. Corrada Bravo, R.A. Irizarry. "Model-based quality assessment and
   base-calling for second-generation sequencing data" (Novmeber
-  2009). _Biometrics_ Published online before print, Novemeber 13,
-  2009. doi10.1111/j.1541-0420.2009.01353.x [Biometrics](http://www3.interscience.wiley.com/cgi-bin/fulltext/122684525/HTMLSTART)
+  2009). _Biometrics_ Published online before print, Novemeber 13, 2009. doi10.1111/j.1541-0420.2009.01353.x [Biometrics](http://www3.interscience.wiley.com/cgi-bin/fulltext/122684525/HTMLSTART)
 
 - Wu, H., Irizarry, R. A.,  Bravo, H. C.
   (2010). "Intensity normalization improves color calling in SOLiD
