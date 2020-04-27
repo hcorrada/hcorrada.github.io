@@ -6,7 +6,12 @@ modified: 2013-05-31
 rank: 0
 ---
 
+- Kancherla, J., Yang, Y., Chae, H., Corrada Bravo, H. (2019). "Epiviz File Server: Query, Transform and Interactively Explore Data from Indexed Genomic Files". [bioRxiv](https://www.biorxiv.org/content/10.1101/865295v1)
+
 - Cui, Z., Kancherla, J., Elmqvist, N., Corrada Bravo, H. (2019). "Proactive Visual and Statistical Analysis of Genomic Data in Epiviz". _Bioinformatics_ btz883 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz883/5646643)
+
+- Cui, Z., Kancherla, J., Corrada Bravo, H., Elmqvist, N. (2019). "Sherpa: Leveraging User Attention for Computational Steering in Visual Analytics". _IEEE Visualization in Data
+Science_ [IEEE Xplore](https://ieeexplore.ieee.org/document/8973384)
 
 - Kancherla, J., Zhang, A., Gottfried, B., Corrada Bravo, H. (2018). "Epiviz web components: reusable and extensible component library to visualize genomic datasets". _F1000 Research_ 7:1096. [F1000 Research](https://f1000research.com/articles/7-1096)
 
