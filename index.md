@@ -7,6 +7,10 @@ image:
   creditlink: http://epiviz.github.io
 ---
 
+**_I moved to Genentech Research and Early Development on 6/1/2020. This site is in flux during this transition._**
+
+<br>
+
 **Statistical and computational methods for high-throughput genomics.**  
 _Interactive data analysis. Metagenomics. Cancer epigenomics. Transcriptomics._
 

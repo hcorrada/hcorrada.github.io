@@ -31,23 +31,17 @@ kramdown:
 owner:
   name: Héctor Corrada Bravo
   avatar: hector3.png
-  position: Associate Professor
+  position: Senior Scientist
   affiliations:
     -
-      name: Center for Bioinformatics and Computational Biology
-      url: "http://cbcb.umd.edu"
-    -
-      name: Computer Science
-      url: "http://cs.umd.edu"
-    -
-      name: UMIACS
-      url: "http://umiacs.umd.edu"
+      name: Research and Early Development
+      url: "http://gene.com"
   institution:
-      name: Univ. of Maryland
-      url: "http://www.umd.edu"
+      name: Genentech
+      url: "http://gene.com"
   bio: "Associate Professor<br>CBCB<br>Univ. of Maryland"
   email: hcorrada@gmail.com
-  address: "3226 Brendan Iribe Center, 8125 Paint Branch Dr. College Park, MD 20742"
+  address: "COMING SOON"
   cv: "http://www.hcbravo.org/docs/CorradaBravo_CV.pdf"
   disqus-shortname:
   twitter: hcorrada
